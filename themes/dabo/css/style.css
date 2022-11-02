@@ -20,7 +20,7 @@ html, body {
 /* Placement */
 
 body {
-    background-color: aqua;
+    background-color: lightgray;
     display: flex;
     flex-direction: column;
 }
@@ -101,10 +101,12 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-img {
-    max-width: 100%;
-}
 
+
+img {
+    
+    max-width: 25%;
+}
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
 
 /* Code */
