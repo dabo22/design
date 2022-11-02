@@ -11,5 +11,3 @@ This is the third (or fourth) course in this program depending on how you count.
 
 I assume that it will look a lot better as this course goes along.
 
-
-testing git
